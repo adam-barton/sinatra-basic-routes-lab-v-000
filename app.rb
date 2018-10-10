@@ -14,4 +14,3 @@ class App < Sinatra::Base
     "My favorite song is Puff the Magic Dragon."
   end
 end
-end
